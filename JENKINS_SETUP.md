@@ -34,13 +34,13 @@ java -version  # Verify OpenJDK 17 is installed
 1. **Description**: Enter `Build and test HelloWorldApp from GitHub`
 2. **GitHub Project**: 
    - Check the box: ✓ GitHub project
-   - URL: `https://github.com/YOUR_USERNAME/HelloWorldApp/`
+   - URL: `https://github.com/neerajk555/HelloWorldApp`
 
 ## Step 4: Configure Source Code Management
 
 1. Select **Git** from Source Code Management
 2. Fill in the details:
-   - **Repository URL**: `https://github.com/YOUR_USERNAME/HelloWorldApp.git`
+   - **Repository URL**: `https://github.com/neerajk555/HelloWorldApp.git`
    - **Credentials**: Leave blank (for public repo) or add GitHub credentials if private
    - **Branch Specifier**: `*/main`
    - **Additional Behaviours**: 
